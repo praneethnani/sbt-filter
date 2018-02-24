@@ -1,6 +1,6 @@
 sbtPlugin := true
 
-organization := "com.slidingautonomy.sbt"
+organization := "com.github.praneethpuligundla"
 
 name := "sbt-filter"
 
@@ -30,7 +30,7 @@ publishTo := {
 }
 
 pomExtra :=
-  <url>https://github.com/rgcottrell/sbt-filter</url>
+  <url>https://github.com/praneethpuligundla/sbt-filter</url>
   <licenses>
     <license>
       <name>Apache License, Version 2.0</name>
@@ -39,13 +39,18 @@ pomExtra :=
     </license>
   </licenses>
   <scm>
-    <url>git@github.com:rgcottrell/sbt-filter.git</url>
-    <connection>scm:git:git@github.com:rgcottrell/sbt-filter.git</connection>
+    <url>git@github.com:praneethpuligundla/sbt-filter.git</url>
+    <connection>scm:git:git@github.com:praneethpuligundla/sbt-filter.git</connection>
   </scm>
   <developers>
     <developer>
       <id>rgcottrell</id>
       <name>Robert Cottrell</name>
       <url>https://github.com/rgcottrell</url>
+    </developer>
+   <developer>
+      <id>praneethpuligundla</id>
+      <name>Praneeth Puligundla</name>
+      <url>https://github.com/praneethpuligundla</url>
     </developer>
   </developers>
