@@ -4,7 +4,7 @@ organization := "com.github.praneethpuligundla"
 
 name := "sbt-filter"
 
-version := "1.0.2-SNAPSHOT"
+version := "1.0.2"
 
 crossSbtVersions := Seq("1.0.2", "0.13.16")
 
