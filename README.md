@@ -10,7 +10,7 @@ explicitly left unfiltered.
 Add the plugin to the `project/plugins.sbt` of your project: (for SBT 1.x)
 
 ```scala
-addSbtPlugin("com.slidingautonomy.sbt" % "sbt-filter" % "1.0.2")
+addSbtPlugin("com.github.praneethpuligundla" % "sbt-filter" % "1.0.2")
 ```
 
 Your project's build file also needs to enable sbt-web plugins. For example with build.sbt:
